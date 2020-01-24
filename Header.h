@@ -1,0 +1,11 @@
+#pragma once
+#include <windows.h>
+#include <tchar.h>
+#include <string>
+//#define D3D10_IGNORE_SDK_LAYERS
+#include <stdio.h>
+//#include <d3d10.h>
+#include <d3d9.h>
+#include <d3dx9.h>
+#include <iostream>
+#include <mmsystem.h>
